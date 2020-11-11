@@ -1,0 +1,26 @@
+Gdp Pe Capita Current US $
+
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2019&start=2019&view=bar
+
+
+Extreme Poverty ( % people below 5.50 dollars a day
+
+Poverty Headcount ration at 5:%- a day is the percentage of the population living on 
+less than 5.50 a day at 2011 internationl prices.
+
+https://www.gapminder.org/data/
+
+
+
+
+
+Population Density
+https://data.worldbank.org/indicator/EN.POP.DNST?end=2019&start=1999
+
+
+covid data
+https://ourworldindata.org/coronavirus-data
+
+
+Individuals using the Internet (% of population)
+https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2019&most_recent_year_desc=false&start=2019&view=bar
