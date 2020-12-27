@@ -1,0 +1,1 @@
+Project that analyzes the relationship between the Coronovirus and Socioeconomic factors
