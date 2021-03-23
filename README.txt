@@ -1,2 +1,2 @@
 A data science project that analyzes the relationship between the infection/mortality rate of the Coronavirus pandemic and socioeconomic factors such as inequality, GDP per capita, etc. It uses simple linear regression along with vizualization techniques to analyze the data collected from the World Bank. 
-A google colabotoray version of this project can be accessed here: https://drive.google.com/file/d/1nHCjAf6TO3l9rl2jNEWeP4LLi2OfSHtn/view?usp=sharing
+A google colab version of this project can be accessed here: https://drive.google.com/file/d/1nHCjAf6TO3l9rl2jNEWeP4LLi2OfSHtn/view?usp=sharing
